@@ -1,4 +1,4 @@
 # Пример проекта по сентимент анализу текстов песен группы Radiohead
 Проект выполнен в рамках учебной программы "Основы програмирования на языке Python"
 
-База данных была взята из открытого доступа с сайта [Data.world] (https://data.world/rcharlie/gloom-index-of-radiohead-songs).
+База данных была взята из открытого доступа с сайта [Data.world](https://data.world/rcharlie/gloom-index-of-radiohead-songs).
